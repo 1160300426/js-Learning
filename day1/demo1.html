@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>The First Day</title>
+</head>
+<body>
+<div>I`m very very glad to learn this beautiful code</div>
+<!--导入js文件的三种方法-->
+
+<!--行内导入，慎重，特别不安全-->
+<div onclick="alert('Hello World')">点我！！！</div>
+<!--内嵌式-->
+<script>
+    alert("hello world the second time")
+</script>
+<!--外链式-->
+<script src="js/myScript.js">
+    //内嵌导入和外链导入不能合并.
+    //合并时，只能执行外链式.
+</script>
+</body>
+</html>

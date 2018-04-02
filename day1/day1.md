@@ -1,0 +1,9 @@
+#浏览器内核
+##渲染引擎
+>谷歌(Chrome):Webkit内核(V8引擎).包括安卓和IOS大部分浏览器。
+>
+>火狐(firefox):Gecko内核
+>
+>欧明(opera):Presto内核
+>
+>IE：Trident内核

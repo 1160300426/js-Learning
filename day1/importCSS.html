@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<!--导入CSS 样式的几种方法-->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>导入CSS样式</title>
+    <!--内嵌-->
+    <style>
+        /*导入式，一般放在style最前面*/
+        @import "CSS/Source.css";
+        div {
+            height: 200px;
+        }
+    </style>
+    <!--外链式-->
+    <link rel="stylesheet" href="CSS/Source.css">
+</head>
+<body>
+
+<!--行内：HTML和CSS混在一起，代码结构混乱-->
+<div style="width : 200px;">Hello World</div>
+
+</body>
+</html>
