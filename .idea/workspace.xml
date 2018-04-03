@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e2f6b8-da1f-4e57-8bcc-58c236bb1460" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day2/HTMLDemo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day2/localFile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/CSS/MyCSS.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/HTMLDemo/LinkDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day2/HTMLDemo/StyleDemo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/HTMLDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/HTMLDemo/HTMLDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/localFile.html" beforeDir="false" afterPath="$PROJECT_DIR$/day2/HTMLDemo/localFile.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,20 +39,50 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HTMLDemo.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/day2/HTMLDemo.html">
+      <file leaf-file-name="HTMLDemo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/HTMLDemo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
+            <state relative-caret-position="241">
               <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="StyleDemo.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/StyleDemo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LinkDemo.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/LinkDemo.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyCSS.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day2/CSS/MyCSS.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="localFile.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day2/localFile.html">
+        <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/localFile.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="133">
-              <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -59,6 +92,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -72,6 +106,10 @@
         <option value="$PROJECT_DIR$/day2/localFile.html" />
         <option value="$PROJECT_DIR$/day2/demo.html" />
         <option value="$PROJECT_DIR$/day2/HTMLDemo.html" />
+        <option value="$PROJECT_DIR$/day2/CSS/MyCSS.css" />
+        <option value="$PROJECT_DIR$/day2/StyleDemo.html" />
+        <option value="$PROJECT_DIR$/day2/HTMLDemo/StyleDemo.html" />
+        <option value="$PROJECT_DIR$/day2/HTMLDemo/LinkDemo.html" />
       </list>
     </option>
   </component>
@@ -102,11 +140,6 @@
               <item name="js-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="js-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="day2" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -118,11 +151,17 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
     <property name="node.js.selected.package.prettier" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gitbash_lgj\js-Learning\day2\HTMLDemo" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -147,16 +186,16 @@
       <option name="presentableId" value="Default" />
       <updated>1522676112542</updated>
       <workItem from="1522676117493" duration="3342000" />
-      <workItem from="1522739569872" duration="1941000" />
+      <workItem from="1522739569872" duration="2121000" />
+      <workItem from="1522752116642" duration="3234000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5283000" />
+    <option name="totallyTimeSpent" value="8697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -193,8 +232,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day2/demo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="76">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/localFile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/HTMLDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -207,22 +260,60 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day2/demo.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day1/demo1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/CSS/MyCSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/HTMLDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/demo.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day2/localFile.html">
+    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/localFile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo.html">
+    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/StyleDemo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
+        <state relative-caret-position="399">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/LinkDemo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
     </entry>
