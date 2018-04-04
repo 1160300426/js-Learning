@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>列表</title>
+</head>
+<body>
+    <!--li 列表项-->
+    <h1>ul 无序列表（默认实心圆）：</h1>
+    <ul >
+        <li>打游戏</li>
+        <li>看电影</li>
+        <li>码代码</li>
+    </ul>
+    <h2>circle（变为空心圆）：</h2>
+    <!--
+    disc    ： 圆实体
+    square  ： 方块实体-->
+    <ul type="circle">
+        <li>打游戏</li>
+        <li>看电影</li>
+        <li>码代码</li>
+    </ul>
+
+    <h1>ol 有序列表（默认数字）：</h1>
+    <!--start ：设置开始位置-->
+    <ol start="5">
+        <li>打游戏</li>
+        <li>看电影</li>
+        <li>码代码</li>
+    </ol>
+
+    <!--A 设为字母-->
+    <h2>A （变为字母顺序）：</h2>
+    <!--
+    I ：罗马数字
+    i ：小写的罗马数字-->
+    <ol type="A">
+        <li>打游戏</li>
+        <li>看电影</li>
+        <li>码代码</li>
+    </ol>
+
+    <h1>嵌套列表</h1>
+    <h2>无序嵌套列表</h2>
+    <ul>
+        <li>动物</li>
+        <ul>
+            <li>老虎</li>
+            <li>熊猫</li>
+        </ul>
+        <li>植物</li>
+        <ul>
+            <li>果树</li>
+            <li>玫瑰</li>
+        </ul>
+        <li>微生物</li>
+    </ul>
+    <h2>有序嵌套列表</h2>
+    <ol>
+        <li>动物</li>
+        <ol>
+            <li>老虎</li>
+            <li>熊猫</li>
+        </ol>
+        <li>植物</li>
+        <ol>
+            <li>果树</li>
+            <li>玫瑰</li>
+        </ol>
+        <li>微生物</li>
+    </ol>
+    <h2>自定义列表项</h2>
+    <dl>
+       <dt>Hello World</dt>
+            <dd>编程第一句</dd>
+        <dt>Hello World</dt>
+            <dd>编程第一句</dd>
+        <dt>Hello World</dt>
+            <dd>编程第一句</dd>
+    </dl>
+
+</body>
+</html>
