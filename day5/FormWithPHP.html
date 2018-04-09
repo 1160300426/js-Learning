@@ -1,10 +1,72 @@
 <!DOCTYPE html>
 <html lang="en">
+<!--
+当单击表单中的提交按钮时，输入在表单中的信息就会上传到服务器中，然后由服务器的有关应用程序进行处理，
+处理后或者将用户提交的信息储存在服务器端的数据库中，或者将有关的信息返回到客户端浏览器上。
+-->
 <head>
     <meta charset="UTF-8">
-    <title>$Title$</title>
+    <title>表单与PHP交互</title>
 </head>
 <body>
-$END$
+<h3>name:表单的名称</h3>
+<h3>method:定义表单结果从浏览器传送到服务器的方法，一般有两种方法get和post</h3>
+<ol>
+    <li>
+        METHOD属性中，GET方法是将表单内容附在URL地址后面，所以对提交信息的长度进行了限制，
+        不可以超过8192个字符。如果信息太长，将被截去，从而导致意想不到的处理结果。同时GET方
+        法不具有保密性，不适合处理如信用卡卡号等要求保密的内容，而且不能传送非ASCII码的字符。
+    </li>
+    <li>
+        POST方法是将用户在表单中填写的数据包含在表单的主体中，一起传送到服务器上的处理程序中，
+        该方法没有字符的限制，它包含了ISO10646的字符集，是一种邮寄的方式，
+        在浏览器的地址栏不显示提交的信息，这种方式传送的数据是没有限制的。
+    </li>
+</ol>
+<p>当不指明是哪种方式时，默认为GET方式。</p>
+<h3>action：用来定义表单处理程序(一个ASP,CGI等程序)的位置( 相对地址或绝对地址)</h3>
+<h3>enctype:设置表单资料的编码方式</h3>
+<ol>
+    设置表单信息提交的编码方式，有以下几种：
+    <li>
+        TEXT/plain:以纯文本形式传送信息
+    </li>
+    <li>
+        Application/x-www-Form-urlencoded:默认的编码形式
+    </li>
+    <li>
+        Multipart/Form-data:使用MINE编码
+    </li>
+</ol>
+<h3>target:设置返回信息的显示方式</h3>
+<ol>
+    TARGET的值有以下几种：
+    <li>
+        _blank:将返回信息显示在新开的浏览器窗口中
+    </li>
+    <li>
+        _parent:将返回信息显示在父级浏览器窗口中
+    </li>
+    <li>
+        _self:将返回信息显示在当前浏览器窗口中
+    </li>
+    <li>
+        _top:将返回信息显示在顶级浏览器窗口中
+    </li>
+</ol>
+<h2>get的提交方式</h2>
+<form action="http://localhost/phpProject/GetService.php" method="get">
+    用户名：<input type="text" name="name"><br>
+    密 \ 码：<input type="password" name="password">
+    <br>
+    <input type="submit" value="提交">
+</form>
+<h2>post的提交方式</h2>
+<form action="http://localhost/phpProject/PostService.php" method="post">
+    用户名：<input type="text" name="name"><br>
+    密 \ 码：<input type="password" name="password">
+    <br>
+    <input type="submit" value="提交">
+</form>
 </body>
 </html>
