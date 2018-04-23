@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>背景</title>
+</head>
+<!--
+bgcolor : 背景颜色。
+background : 背景图片。
+-->
+<body background="beautifulScence.jpg">
+html实体：
+&lt;html&gt;
+
+<h2>可编辑列表</h2>
+contenteditable 属性： true为可编辑；false为不可编辑。<br/>
+designMode属性 ：      在js代码中设置，为true是，所有contenteditable为true。<br/>
+hidden属性  ：         通知浏览器不渲染该元素，使该元素处于不可见状态。<br/>
+spellcheck属性：       检测书写是否正确。<br/>
+tabindex属性：         默认只有链接和表单有这个属性。可以通过手动设置令本不能获取到的获取到。可通过设置负数来取消<br/>
+<ul contenteditable="true" >
+    <li hidden="true">列表1</li>
+    <li type="text" spellcheck="true">列表2</li>
+    <li>列表3</li>
+</ul>
+<a href="http://www.baidu.com" tabindex="1">百度</a>
+<a href="http://www.taobao.com" tabindex="3">淘宝</a>
+<a href="http://www.jd.com" tabindex="2">京东</a>
+
+</body>
+</html>
