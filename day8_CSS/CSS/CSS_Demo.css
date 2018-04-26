@@ -1,0 +1,47 @@
+h1, a {
+    color: aquamarine;
+    font-size: 60px;
+}
+h2 {
+    color: darkblue;
+    font-size: 40px;
+}
+body {
+    color: blueviolet;
+}
+
+li strong {
+    color: burlywood;
+}
+strong {
+    color: coral;
+}
+
+
+#p_id {
+    color: darkgoldenrod;
+}
+#div_id {
+    color: wheat;
+}
+
+#p2_id a {
+    color: blueviolet;
+}
+
+
+.p_class {
+    color: red;
+}
+.p_class a {
+    font-size: 20px;
+    color: blueviolet;
+}
+[title] {
+    font-size: 55px;
+    color: chartreuse;
+}
+[title = div_title] {
+    font-size: 40px;
+    color: darkorange;
+}

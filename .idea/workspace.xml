@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e2f6b8-da1f-4e57-8bcc-58c236bb1460" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day7/asideElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/formElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/navElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/sectionElement.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day7/timeElement.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_CSS/CSS/CSS_Demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day8_CSS/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -46,8 +43,8 @@
       <file leaf-file-name="articleElement.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day7/articleElement.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="418">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -65,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/day7/navElement.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+              <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -74,39 +71,43 @@
         <entry file="file://$PROJECT_DIR$/day7/asideElement.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
-              <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="beautifulScence.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/beautifulScence.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
       <file leaf-file-name="timeElement.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day7/timeElement.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="342">
-              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formElement.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="formElement.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day7/formElement.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+            <state relative-caret-position="171">
+              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Frame2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day6/frameItems/Frame2.html">
+      <file leaf-file-name="CSS_Demo.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day8_CSS/CSS/CSS_Demo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="601">
+              <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day8_CSS/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="563">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
         </entry>
@@ -159,6 +160,8 @@
         <option value="$PROJECT_DIR$/day7/time.html" />
         <option value="$PROJECT_DIR$/day7/timeElement.html" />
         <option value="$PROJECT_DIR$/day7/formElement.html" />
+        <option value="$PROJECT_DIR$/day8_CSS/index.html" />
+        <option value="$PROJECT_DIR$/day8_CSS/CSS/CSS_Demo.css" />
       </list>
     </option>
   </component>
@@ -168,9 +171,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="828" />
-    <option name="y" value="107" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="827" />
+    <option name="y" value="106" />
     <option name="width" value="945" />
     <option name="height" value="970" />
   </component>
@@ -182,6 +185,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,19 +196,18 @@
             <path>
               <item name="js-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="day6" type="462c0819:PsiDirectoryNode" />
+              <item name="day8_CSS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="day6" type="462c0819:PsiDirectoryNode" />
-              <item name="frameItems" type="462c0819:PsiDirectoryNode" />
+              <item name="day8_CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -262,15 +265,17 @@
       <workItem from="1524409393795" duration="1171000" />
       <workItem from="1524456787913" duration="1891000" />
       <workItem from="1524470752528" duration="3735000" />
-      <workItem from="1524573413613" duration="5589000" />
+      <workItem from="1524573413613" duration="6187000" />
+      <workItem from="1524716215939" duration="2616000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41614000" />
+    <option name="totallyTimeSpent" value="44828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15755208" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -298,13 +303,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day1/demo1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2/demo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -586,16 +584,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day7/time.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day7/beautifulScence.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/day7/time.html" />
     <entry file="file://$PROJECT_DIR$/day7/sectionElement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="475">
@@ -606,7 +595,7 @@
     <entry file="file://$PROJECT_DIR$/day7/navElement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="15" column="10" lean-forward="true" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -624,28 +613,42 @@
     <entry file="file://$PROJECT_DIR$/day7/asideElement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
-          <caret line="20" column="7" lean-forward="true" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day7/articleElement.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+        <state relative-caret-position="418">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day7/timeElement.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day7/formElement.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8_CSS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="563">
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day8_CSS/CSS/CSS_Demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="43" column="18" selection-start-line="43" selection-start-column="18" selection-end-line="43" selection-end-column="18" />
         </state>
       </provider>
     </entry>
