@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e2f6b8-da1f-4e57-8bcc-58c236bb1460" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/CSS/image_CSS.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/imageCode.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_Pinterest.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/css_Pinterest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,24 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CSSStyle_2.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_2.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CSSStyle_text01.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="639">
-              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index_CSSStyle_FourStatus.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_CSSStyle_FourStatus.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -45,20 +27,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CSSStyle_ClickStatus.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_ClickStatus.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index_Float.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_Float.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+            <state relative-caret-position="418">
+              <caret line="22" column="90" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="90" />
             </state>
           </provider>
         </entry>
@@ -66,17 +39,62 @@
       <file leaf-file-name="imageCode.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/imageCode.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="551">
+              <caret line="35" column="86" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="86" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="image_CSS.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="image_CSS.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/image_CSS.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_backgroundImage.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundImage.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="29" selection-start-line="29" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="css_Pinterest.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/css_Pinterest.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="80" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSSStyle_text01.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="601">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cssStyle_Pinterest.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_Pinterest.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_backgroundColor.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundColor.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -86,24 +104,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="209">
               <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_text.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_text.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_backgroundImage.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundImage.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -124,7 +124,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day2/localFile.html" />
         <option value="$PROJECT_DIR$/day2/demo.html" />
         <option value="$PROJECT_DIR$/day2/HTMLDemo.html" />
         <option value="$PROJECT_DIR$/day2/CSS/MyCSS.css" />
@@ -171,8 +170,11 @@
         <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_float.css" />
         <option value="$PROJECT_DIR$/day9_CSSStyle/index_Float.html" />
         <option value="$PROJECT_DIR$/day9_CSSStyle/image/image_CSS.css" />
-        <option value="$PROJECT_DIR$/day9_CSSStyle/imageCode.html" />
         <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/image_CSS.css" />
+        <option value="$PROJECT_DIR$/day9_CSSStyle/imageCode.html" />
+        <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_interest.css" />
+        <option value="$PROJECT_DIR$/day9_CSSStyle/css_Pinterest.html" />
+        <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_Pinterest.css" />
       </list>
     </option>
   </component>
@@ -182,7 +184,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="825" />
     <option name="y" value="105" />
     <option name="width" value="945" />
@@ -213,12 +215,6 @@
               <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
               <item name="day9_CSSStyle" type="462c0819:PsiDirectoryNode" />
               <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="js-Learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="day9_CSSStyle" type="462c0819:PsiDirectoryNode" />
-              <item name="image" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -286,18 +282,18 @@
       <workItem from="1524573413613" duration="6187000" />
       <workItem from="1524716215939" duration="3196000" />
       <workItem from="1524841900163" duration="2330000" />
-      <workItem from="1524873976248" duration="7674000" />
+      <workItem from="1524873976248" duration="9371000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55412000" />
+    <option name="totallyTimeSpent" value="57109000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="660" y="84" width="756" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15755208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.32614556" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -323,27 +319,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day2/demo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/localFile.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/HTMLDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day1/demo1.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -579,20 +554,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index.html" />
     <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_1.html" />
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundColor.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundImage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="17" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_2.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -607,10 +568,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_ClickStatus.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="639">
-          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="57">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/image_CSS.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundImage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundColor.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/imageCode.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="35" column="86" lean-forward="true" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="86" />
         </state>
       </provider>
     </entry>
@@ -621,10 +610,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_ClickStatus.css">
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_interest.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_Float.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
+        <state relative-caret-position="418">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -635,24 +634,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_Float.html">
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/css_Pinterest.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="12" lean-forward="true" selection-start-line="19" selection-start-column="12" selection-end-line="19" selection-end-column="12" />
+        <state relative-caret-position="171">
+          <caret line="9" column="80" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="80" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/imageCode.html">
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_Pinterest.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/image_CSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="32" selection-start-line="4" selection-start-column="32" selection-end-line="4" selection-end-column="32" />
+        <state relative-caret-position="266">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
         </state>
       </provider>
     </entry>
