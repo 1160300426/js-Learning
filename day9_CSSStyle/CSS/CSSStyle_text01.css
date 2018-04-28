@@ -1,0 +1,29 @@
+body {
+    color: goldenrod;
+    text-align: center;
+}
+h2 {
+    text-indent: 2em;
+    text-shadow: 5px 5px 5px gold;
+    /*第一个参数，距离左边距离
+    第二个参数，上边距离
+    第三个，阴影清晰度
+    第四个，阴影颜色
+    */
+}
+p {
+    padding-left: 2em;
+    text-transform: lowercase;
+}
+#id_p1 {
+    text-transform: capitalize;
+}
+#id_p2 {
+    text-transform: uppercase;
+}
+#id_p3 {
+    text-transform: lowercase;
+}
+#id_p4 {
+    text-transform: inherit;
+}
