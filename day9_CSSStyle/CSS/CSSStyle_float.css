@@ -1,0 +1,22 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+#day9_id_div1 {
+    width: 950px;
+    height: auto;
+    margin: 20px auto;
+}
+ul {
+    width: 250px;
+    float: left;
+}
+image {
+    width: 100%;
+    height: 100%;
+}
+li {
+    width: 400px;
+    height: 400px;
+
+}
