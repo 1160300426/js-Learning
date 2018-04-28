@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e2f6b8-da1f-4e57-8bcc-58c236bb1460" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/index_text.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_ClickStatus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day9_CSSStyle/index_CSSStyle_FourStatus.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css" beforeDir="false" afterPath="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,24 +19,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="timeElement.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/timeElement.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="7" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="formElement.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day7/formElement.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="CSS_Demo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day8_CSS/CSS/CSS_Demo.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,11 +55,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CSSStyle_text01.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CSSStyle_text01.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="639">
+              <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index_CSSStyle_FourStatus.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_CSSStyle_FourStatus.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSSStyle_ClickStatus.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_ClickStatus.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -113,8 +114,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -166,6 +167,8 @@
         <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_2.css" />
         <option value="$PROJECT_DIR$/day9_CSSStyle/index_text.html" />
         <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css" />
+        <option value="$PROJECT_DIR$/day9_CSSStyle/index_CSSStyle_FourStatus.html" />
+        <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_ClickStatus.css" />
       </list>
     </option>
   </component>
@@ -272,12 +275,12 @@
       <workItem from="1524573413613" duration="6187000" />
       <workItem from="1524716215939" duration="3196000" />
       <workItem from="1524841900163" duration="2330000" />
-      <workItem from="1524873976248" duration="3113000" />
+      <workItem from="1524873976248" duration="4009000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50851000" />
+    <option name="totallyTimeSpent" value="51747000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -309,20 +312,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/HTMLDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/StyleDemo.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2/CSS/MyCSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -637,8 +626,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="639">
+          <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_CSSStyle_FourStatus.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_ClickStatus.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="25" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
         </state>
       </provider>
     </entry>

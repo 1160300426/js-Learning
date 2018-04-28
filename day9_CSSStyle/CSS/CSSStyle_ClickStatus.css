@@ -1,0 +1,17 @@
+/*未被点击*/
+a:link {
+    color: blue;
+    text-decoration: none;
+}
+/*已被点击*/
+a:visited {
+    color: beige;
+}
+/*鼠标滑过*/
+a:hover {
+    color: goldenrod;
+}
+/*正在被点击*/
+a:active {
+    color: chartreuse;
+}

@@ -16,14 +16,23 @@ p {
     text-transform: lowercase;
 }
 #id_p1 {
+    font-size: 40px;
+    font-family: "Baskerville Old Face";
+
     text-transform: capitalize;
 }
 #id_p2 {
+    font-size: 35px;
+    font-family: "Berlin Sans FB";
     text-transform: uppercase;
 }
 #id_p3 {
+    font-size: 30px;
+    font-family: "Arial Narrow";
     text-transform: lowercase;
 }
 #id_p4 {
+    font-size: 25px;
+    font-family: Candara;
     text-transform: inherit;
 }
