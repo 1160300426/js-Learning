@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e2f6b8-da1f-4e57-8bcc-58c236bb1460" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day10_HTML&amp;CSS/CSS/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day10_HTML&amp;CSS/HTML&amp;CSSDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_startJS/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_startJS/js/myJS.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -36,15 +36,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="imageCode.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/imageCode.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="551">
-              <caret line="35" column="86" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="86" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="css_Pinterest.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/css_Pinterest.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -57,7 +48,7 @@
       <file leaf-file-name="CSSStyle_text01.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="601">
+            <state relative-caret-position="665">
               <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
             </state>
           </provider>
@@ -72,11 +63,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HTML&amp;CSSDemo.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="HTML&amp;CSSDemo.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day10_HTML&amp;CSS/HTML&amp;CSSDemo.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+            <state relative-caret-position="285">
+              <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day11_startJS/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="myJS.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day11_startJS/js/myJS.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -84,17 +93,8 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day10_HTML&amp;CSS/CSS/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
+            <state relative-caret-position="1615">
               <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index_backgroundColor.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_backgroundColor.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -113,8 +113,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -124,8 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day2/CSS/MyCSS.css" />
-        <option value="$PROJECT_DIR$/day2/StyleDemo.html" />
         <option value="$PROJECT_DIR$/day2/HTMLDemo/StyleDemo.html" />
         <option value="$PROJECT_DIR$/day2/HTMLDemo/LinkDemo.html" />
         <option value="$PROJECT_DIR$/day3/HTMLTable.html" />
@@ -175,6 +174,8 @@
         <option value="$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_Pinterest.css" />
         <option value="$PROJECT_DIR$/day10_HTML&amp;CSS/CSS/style.css" />
         <option value="$PROJECT_DIR$/day10_HTML&amp;CSS/HTML&amp;CSSDemo.html" />
+        <option value="$PROJECT_DIR$/day11_startJS/js/myJS.js" />
+        <option value="$PROJECT_DIR$/day11_startJS/index.html" />
       </list>
     </option>
   </component>
@@ -184,10 +185,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="867" />
-    <option name="y" value="42" />
-    <option name="width" value="1023" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="573" />
+    <option name="y" value="463" />
+    <option name="width" value="1025" />
     <option name="height" value="970" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -198,6 +199,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,19 +210,18 @@
             <path>
               <item name="js-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="day10_HTML&amp;CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="day11_startJS" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="js-Learning" type="b2602c69:ProjectViewProjectNode" />
               <item name="js-Learning" type="462c0819:PsiDirectoryNode" />
-              <item name="day10_HTML&amp;CSS" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="day11_startJS" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -282,18 +283,20 @@
       <workItem from="1524573413613" duration="6187000" />
       <workItem from="1524716215939" duration="3196000" />
       <workItem from="1524841900163" duration="2330000" />
-      <workItem from="1524873976248" duration="12627000" />
+      <workItem from="1524873976248" duration="13266000" />
+      <workItem from="1525016071868" duration="336000" />
+      <workItem from="1525016430550" duration="634000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60365000" />
+    <option name="totallyTimeSpent" value="61974000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="694" y="34" width="818" height="776" extended-state="0" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30099502" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15755208" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -319,13 +322,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day1/demo1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2/CSS/MyCSS.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="19">
@@ -584,7 +580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9_CSSStyle/imageCode.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
+        <state relative-caret-position="665">
           <caret line="35" column="86" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="86" />
         </state>
       </provider>
@@ -596,9 +592,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/cssStyle_interest.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_Float.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -608,7 +601,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9_CSSStyle/CSS/CSSStyle_text01.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="601">
+        <state relative-caret-position="665">
           <caret line="35" column="24" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
         </state>
       </provider>
@@ -636,15 +629,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day10_HTML&amp;CSS/CSS/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
+        <state relative-caret-position="1615">
           <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/day10_HTML&amp;CSS/HTML&amp;CSSDemo.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+        <state relative-caret-position="285">
+          <caret line="15" column="53" selection-start-line="15" selection-start-column="53" selection-end-line="15" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_startJS/js/myJS.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_startJS/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>
