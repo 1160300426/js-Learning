@@ -2,7 +2,8 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>js语法</title>
+    <title>js事件</title>
+    <link rel="stylesheet" href="CSS/myCSS.css">
     <script>
         function sum() {
             var  i = 10;
@@ -16,5 +17,46 @@
     <p>i = 10,j = 10;i + j = ?</p>
     <p id="day11_pid2">hei</p>
     <button onclick="sum()">结果</button>
+    <br/>
+    <br/>
+    <div class="day11_divClass" onmouseout="onOuter(this)" onmouseover="onOver(this)">
+
+    </div>
+    <script>
+        function onOuter(ooj) {
+            ooj.innerHTML = "Name";
+        }
+        function onOver(ooj) {
+            ooj.innerHTML = "Sex";
+        }
+    </script>
+    <br>
+    <form>
+        <input type="text" onchange="changeContent(this)"><br/>
+        <input type="text" onselect="selectInput(this)" onfocus="focusInput(this)">
+    </form>
+    <button id="day11_button">按钮</button>
+    <script>
+        var x = document.getElementById("day11_button");
+        x.addEventListener("click", hello);
+        x.addEventListener("click", world);
+        x.removeEventListener("click", world);
+        function changeContent(bg) {
+            alert("Hei, Your text were changed!");
+        }
+        function selectInput(bg) {
+            bg.style.background="blue";
+        }
+        function focusInput(bg) {
+            bg.style.background="red";
+        }
+
+        function hello() {
+            alert("Hello");
+        }
+        function world() {
+            alert("world");
+        }
+    </script>
 </body>
 </html>
