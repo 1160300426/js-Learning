@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45e2f6b8-da1f-4e57-8bcc-58c236bb1460" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/day11_startJS/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day11_startJS/js/myJS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/day11_startJS/index2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day11_startJS/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/day11_startJS/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,15 +18,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index_CSSStyle_FourStatus.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_CSSStyle_FourStatus.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="62" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="62" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index_Float.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9_CSSStyle/index_Float.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -72,11 +63,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day11_startJS/index.html">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index2.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day11_startJS/index2.html">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -114,8 +114,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -125,7 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/day2/HTMLDemo/StyleDemo.html" />
         <option value="$PROJECT_DIR$/day2/HTMLDemo/LinkDemo.html" />
         <option value="$PROJECT_DIR$/day3/HTMLTable.html" />
         <option value="$PROJECT_DIR$/day3/HTMLList.html" />
@@ -176,6 +175,7 @@
         <option value="$PROJECT_DIR$/day10_HTML&amp;CSS/HTML&amp;CSSDemo.html" />
         <option value="$PROJECT_DIR$/day11_startJS/js/myJS.js" />
         <option value="$PROJECT_DIR$/day11_startJS/index.html" />
+        <option value="$PROJECT_DIR$/day11_startJS/index2.html" />
       </list>
     </option>
   </component>
@@ -185,9 +185,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="573" />
-    <option name="y" value="463" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="857" />
+    <option name="y" value="16" />
     <option name="width" value="1025" />
     <option name="height" value="970" />
   </component>
@@ -285,18 +285,18 @@
       <workItem from="1524841900163" duration="2330000" />
       <workItem from="1524873976248" duration="13266000" />
       <workItem from="1525016071868" duration="336000" />
-      <workItem from="1525016430550" duration="634000" />
+      <workItem from="1525016430550" duration="1506000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61974000" />
+    <option name="totallyTimeSpent" value="62846000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="686" y="13" width="820" height="776" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15755208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30024815" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
@@ -322,13 +322,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/day2/CSS/MyCSS.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/day2/HTMLDemo/HTMLDemo.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="570">
@@ -650,8 +643,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day11_startJS/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day11_startJS/index2.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
         </state>
       </provider>
     </entry>
